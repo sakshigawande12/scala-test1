@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Downloads/directory-content-fetcher/target/scala-2.13/directory-content-fetcher_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ContentFetcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/directory-content-fetcher/target/scala-2.13/classes/ContentFetcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ContentFetcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/directory-content-fetcher/target/scala-2.13/classes/ContentFetcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ContentFetcher$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Downloads/directory-content-fetcher/target/scala-2.13/classes/ContentFetcher$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
